@@ -19,6 +19,7 @@ function App() {
     <Routes>
       <Route path="/" element={<IndexPage />} />
       <Route path="/counter" element={<CountPage />} />
+
       <Route element={<AuthLayout />}>
         <Route path="/sign-in" element={<SignInPage />} />
         <Route path="/sign-up" element={<SignUpPage />} />
