@@ -11,4 +11,5 @@ export async function createTodo(content: string) {
   if (!response.ok) throw new Error("Create Todo Failed");
 
   const data = await response.json();
+  return data;
 }

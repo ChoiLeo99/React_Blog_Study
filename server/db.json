@@ -3,61 +3,32 @@
     {
       "id": "1",
       "content": "Todo 1",
-      "idDone": true
+      "idDone": true,
+      "isDone": true
     },
     {
-      "id": "2",
-      "content": "Todo 2",
-      "idDone": true
+      "id": "cddc",
+      "content": "123",
+      "isDone": true
     },
     {
-      "id": "3",
-      "content": "Todo 3",
-      "idDone": false
+      "id": "08c2",
+      "content": "`13",
+      "isDone": true
     },
     {
-      "id": "1ffb",
+      "id": "ce48",
       "content": "123",
       "isDone": false
     },
     {
-      "id": "66d6",
-      "content": "234",
+      "id": "17b2",
+      "content": "423",
       "isDone": false
     },
     {
-      "id": "7d25",
-      "content": "555",
-      "isDone": false
-    },
-    {
-      "id": "10ee",
-      "content": "ㄴㅇ",
-      "isDone": false
-    },
-    {
-      "id": "87fb",
-      "content": "헬로우",
-      "isDone": false
-    },
-    {
-      "id": "6f99",
-      "content": "추가됨",
-      "isDone": false
-    },
-    {
-      "id": "d103",
-      "content": "샌디스크 떡상 가즈아",
-      "isDone": false
-    },
-    {
-      "id": "208e",
-      "content": "11시 30분",
-      "isDone": false
-    },
-    {
-      "id": "a561",
-      "content": "gogo",
+      "id": "d3f9",
+      "content": "드가자",
       "isDone": false
     }
   ]
